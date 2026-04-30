@@ -80,6 +80,20 @@ const projectData = [
     category: '3D Animation / Motion',
     description: 'A charming 3D character animation featuring a polar bear, exploring fluid movement and personality-driven motion.',
     image: '/showcase/polar-bear.mp4'
+  },
+  {
+    id: 12,
+    title: 'Solan',
+    category: 'Adobe Illustrator',
+    description: 'A striking portrait utilizing bold contrast and narrative elements, showcasing advanced vector illustration techniques.',
+    image: '/showcase/solan.png'
+  },
+  {
+    id: 13,
+    title: 'Yin and yang',
+    category: 'Adobe Illustrator',
+    description: 'A stylized exploration of balance and duality, created through intricate line work and harmonious composition.',
+    image: '/showcase/yin-and-yang.png'
   }
 ];
 
