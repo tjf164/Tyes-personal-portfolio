@@ -94,6 +94,13 @@ const projectData = [
     category: 'Adobe Illustrator',
     description: 'A stylized exploration of balance and duality, created through intricate line work and harmonious composition.',
     image: '/showcase/yin-and-yang.png'
+  },
+  {
+    id: 14,
+    title: 'Flow',
+    category: 'Adobe Illustrator',
+    description: 'A vibrant abstract composition exploring perspective, fluid patterns, and dynamic color harmony.',
+    image: '/showcase/flow.png'
   }
 ];
 
