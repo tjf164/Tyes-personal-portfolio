@@ -97,10 +97,10 @@ const projectData = [
   },
   {
     id: 14,
-    title: 'Flow',
+    title: 'Flows',
     category: 'Adobe Illustrator',
     description: 'A vibrant abstract composition exploring perspective, fluid patterns, and dynamic color harmony.',
-    image: '/showcase/flow.png'
+    image: '/showcase/flows.png'
   }
 ];
 
