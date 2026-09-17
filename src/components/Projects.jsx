@@ -101,6 +101,13 @@ const projectData = [
     category: 'Adobe Illustrator',
     description: 'A vibrant abstract composition exploring perspective, fluid patterns, and dynamic color harmony.',
     image: '/showcase/flows.png'
+  },
+  {
+    id: 15,
+    title: 'Mickey Surf',
+    category: 'Digital Illustration',
+    description: 'A stylized digital illustration of Mickey Mouse navigating a massive, atmospheric ocean wave.',
+    image: '/showcase/mickey-surf.jpg'
   }
 ];
 
