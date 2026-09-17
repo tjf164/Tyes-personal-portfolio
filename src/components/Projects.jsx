@@ -136,6 +136,13 @@ const projectData = [
     category: 'Digital Illustration',
     description: 'A warm digital painting study highlighting smooth textures and rich caramel tones of crème brûlée.',
     image: '/showcase/creme-brulee.jpg'
+  },
+  {
+    id: 20,
+    title: 'Daisy',
+    category: 'Digital Illustration',
+    description: 'An elegant 1920s fashion illustration inspired by Daisy Buchanan, featuring intricate pearl work and vintage aesthetics.',
+    image: '/showcase/daisy.jpg'
   }
 ];
 
