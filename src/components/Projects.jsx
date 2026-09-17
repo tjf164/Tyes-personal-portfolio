@@ -122,6 +122,13 @@ const projectData = [
     category: 'Digital Illustration',
     description: 'An expressive monochrome composition featuring dynamic ink splatters and layered circular focal elements.',
     image: '/showcase/black-and-white.jpg'
+  },
+  {
+    id: 18,
+    title: 'Pegasus',
+    category: 'Digital Illustration',
+    description: 'A celestial illustration of the Pegasus constellation glowing against a deep starry night sky.',
+    image: '/showcase/pegasus.jpg'
   }
 ];
 
