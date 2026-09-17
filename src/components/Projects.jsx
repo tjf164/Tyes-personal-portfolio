@@ -143,6 +143,13 @@ const projectData = [
     category: 'Digital Illustration',
     description: 'An elegant 1920s fashion illustration inspired by Daisy Buchanan, featuring intricate pearl work and vintage aesthetics.',
     image: '/showcase/daisy.jpg'
+  },
+  {
+    id: 21,
+    title: 'Composition',
+    category: 'Digital Illustration',
+    description: 'A triptych digital study exploring contrasting moods, painterly brushwork, and atmospheric storytelling.',
+    image: '/showcase/composition.jpg'
   }
 ];
 
