@@ -115,6 +115,13 @@ const projectData = [
     category: 'Digital Illustration',
     description: 'An evocative digital artwork featuring a glowing blue butterfly emerging from atmospheric textures.',
     image: '/showcase/mystic-morpho.jpg'
+  },
+  {
+    id: 17,
+    title: 'Black and White',
+    category: 'Digital Illustration',
+    description: 'An expressive monochrome composition featuring dynamic ink splatters and layered circular focal elements.',
+    image: '/showcase/black-and-white.jpg'
   }
 ];
 
