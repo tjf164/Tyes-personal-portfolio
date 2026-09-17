@@ -129,6 +129,13 @@ const projectData = [
     category: 'Digital Illustration',
     description: 'A celestial illustration of the Pegasus constellation glowing against a deep starry night sky.',
     image: '/showcase/pegasus.jpg'
+  },
+  {
+    id: 19,
+    title: 'Crème brûlée',
+    category: 'Digital Illustration',
+    description: 'A warm digital painting study highlighting smooth textures and rich caramel tones of crème brûlée.',
+    image: '/showcase/creme-brulee.jpg'
   }
 ];
 
