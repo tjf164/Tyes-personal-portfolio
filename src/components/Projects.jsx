@@ -108,6 +108,13 @@ const projectData = [
     category: 'Digital Illustration',
     description: 'A stylized digital illustration of Mickey Mouse navigating a massive, atmospheric ocean wave.',
     image: '/showcase/mickey-surf.jpg'
+  },
+  {
+    id: 16,
+    title: 'Mystic Morpho',
+    category: 'Digital Illustration',
+    description: 'An evocative digital artwork featuring a glowing blue butterfly emerging from atmospheric textures.',
+    image: '/showcase/mystic-morpho.jpg'
   }
 ];
 
