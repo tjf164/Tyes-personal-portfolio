@@ -171,6 +171,13 @@ const projectData = [
     category: 'Digital Illustration',
     description: 'A surreal digital illustration merging delicate floral elements with translucent geometric refraction.',
     image: '/showcase/never-be-like-you.jpg'
+  },
+  {
+    id: 25,
+    title: 'BJ',
+    category: 'Digital Illustration',
+    description: 'A detailed digital painting study of a Blue Jay perched on a branch against a vibrant sky.',
+    image: '/showcase/bj.jpg'
   }
 ];
 
