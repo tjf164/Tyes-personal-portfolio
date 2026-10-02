@@ -150,6 +150,13 @@ const projectData = [
     category: 'Digital Illustration',
     description: 'A triptych digital study exploring contrasting moods, painterly brushwork, and atmospheric storytelling.',
     image: '/showcase/composition.jpg'
+  },
+  {
+    id: 22,
+    title: 'Puffer',
+    category: 'Digital Illustration',
+    description: 'A vibrant digital illustration study depicting an Atlantic puffin against a lush green background.',
+    image: '/showcase/puffer.jpg'
   }
 ];
 
