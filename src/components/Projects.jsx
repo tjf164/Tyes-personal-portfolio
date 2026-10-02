@@ -192,6 +192,13 @@ const projectData = [
     category: 'Digital Illustration',
     description: 'An ethereal digital illustration featuring an angelic figure with glowing blue wings set against a dark starry void.',
     image: '/showcase/angel-dust.jpg'
+  },
+  {
+    id: 28,
+    title: 'Angel Praise',
+    category: 'Digital Illustration',
+    description: 'A striking digital illustration depicting a winged angelic figure with a glowing halo in quiet reverence.',
+    image: '/showcase/angel-praise.jpg'
   }
 ];
 
