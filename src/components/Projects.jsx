@@ -157,6 +157,13 @@ const projectData = [
     category: 'Digital Illustration',
     description: 'A vibrant digital illustration study depicting an Atlantic puffin against a lush green background.',
     image: '/showcase/puffer.jpg'
+  },
+  {
+    id: 23,
+    title: 'Emperor',
+    category: 'Digital Illustration',
+    description: 'A majestic digital painting study of an Emperor penguin standing amidst an Antarctic icy landscape.',
+    image: '/showcase/emperor.jpg'
   }
 ];
 
