@@ -164,6 +164,13 @@ const projectData = [
     category: 'Digital Illustration',
     description: 'A majestic digital painting study of an Emperor penguin standing amidst an Antarctic icy landscape.',
     image: '/showcase/emperor.jpg'
+  },
+  {
+    id: 24,
+    title: 'Never Be Like You',
+    category: 'Digital Illustration',
+    description: 'A surreal digital illustration merging delicate floral elements with translucent geometric refraction.',
+    image: '/showcase/never-be-like-you.jpg'
   }
 ];
 
