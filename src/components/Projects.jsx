@@ -185,6 +185,13 @@ const projectData = [
     category: 'Digital Illustration',
     description: 'A collection of detailed digital painting studies showcasing gourmet desserts and sweet delicacies.',
     image: '/showcase/pleasure-and-desire.jpg'
+  },
+  {
+    id: 27,
+    title: 'Angel Dust',
+    category: 'Digital Illustration',
+    description: 'An ethereal digital illustration featuring an angelic figure with glowing blue wings set against a dark starry void.',
+    image: '/showcase/angel-dust.jpg'
   }
 ];
 
