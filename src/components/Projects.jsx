@@ -178,6 +178,13 @@ const projectData = [
     category: 'Digital Illustration',
     description: 'A detailed digital painting study of a Blue Jay perched on a branch against a vibrant sky.',
     image: '/showcase/bj.jpg'
+  },
+  {
+    id: 26,
+    title: 'Pleasure + Desire',
+    category: 'Digital Illustration',
+    description: 'A collection of detailed digital painting studies showcasing gourmet desserts and sweet delicacies.',
+    image: '/showcase/pleasure-and-desire.jpg'
   }
 ];
 
