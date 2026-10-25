@@ -248,6 +248,13 @@ const projectData = [
     category: 'Digital Illustration',
     description: 'A dynamic Olympic snowboarder soaring through the air with a cosmic star-filled suit and board.',
     image: '/showcase/cloud-9.jpg'
+  },
+  {
+    id: 36,
+    title: 'LaFerrari',
+    category: 'Digital Illustration',
+    description: 'A striking portrait of a racer wearing an iconic red Ferrari helmet paired with classic diamond jewelry.',
+    image: '/showcase/laferrari.jpg'
   }
 ];
 
