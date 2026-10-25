@@ -220,6 +220,13 @@ const projectData = [
     category: 'Digital Illustration',
     description: 'A monochrome study of hands poised over a metallic chess board, exploring reflective jewelry and strategic tension.',
     image: '/showcase/queens-gambit.jpg'
+  },
+  {
+    id: 32,
+    title: 'Daffy & Bugz Money',
+    category: 'Digital Illustration',
+    description: 'A playful digital illustration depicting Daffy Duck and Bugs Bunny surrounded by towering stacks of cash.',
+    image: '/showcase/daffy-and-bugz-money.jpg'
   }
 ];
 
