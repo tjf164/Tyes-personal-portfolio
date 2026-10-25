@@ -241,6 +241,13 @@ const projectData = [
     category: 'Digital Illustration',
     description: 'A vibrant mixed-media style digital illustration of a winged figure ablaze with vivid colors against a crimson aura.',
     image: '/showcase/mix-angel.jpg'
+  },
+  {
+    id: 35,
+    title: 'Cloud 9',
+    category: 'Digital Illustration',
+    description: 'A dynamic Olympic snowboarder soaring through the air with a cosmic star-filled suit and board.',
+    image: '/showcase/cloud-9.jpg'
   }
 ];
 
