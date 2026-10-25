@@ -213,6 +213,13 @@ const projectData = [
     category: 'Digital Illustration',
     description: 'A vibrant landscape painting of the iconic Kame House on its tropical island under glowing sunset clouds.',
     image: '/showcase/kame-house.jpg'
+  },
+  {
+    id: 31,
+    title: 'Queens Gambit',
+    category: 'Digital Illustration',
+    description: 'A monochrome study of hands poised over a metallic chess board, exploring reflective jewelry and strategic tension.',
+    image: '/showcase/queens-gambit.jpg'
   }
 ];
 
