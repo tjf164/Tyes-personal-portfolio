@@ -206,6 +206,13 @@ const projectData = [
     category: 'Digital Illustration',
     description: 'A dynamic digital painting of a Porsche 911 GT3 RS with headlights cutting through an atmospheric haze.',
     image: '/showcase/gt3-rs.jpg'
+  },
+  {
+    id: 30,
+    title: 'Kame House',
+    category: 'Digital Illustration',
+    description: 'A vibrant landscape painting of the iconic Kame House on its tropical island under glowing sunset clouds.',
+    image: '/showcase/kame-house.jpg'
   }
 ];
 
