@@ -199,6 +199,13 @@ const projectData = [
     category: 'Digital Illustration',
     description: 'A striking digital illustration depicting a winged angelic figure with a glowing halo in quiet reverence.',
     image: '/showcase/angel-praise.jpg'
+  },
+  {
+    id: 29,
+    title: 'GT3 RS',
+    category: 'Digital Illustration',
+    description: 'A dynamic digital painting of a Porsche 911 GT3 RS with headlights cutting through an atmospheric haze.',
+    image: '/showcase/gt3-rs.jpg'
   }
 ];
 
