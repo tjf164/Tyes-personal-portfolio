@@ -227,6 +227,13 @@ const projectData = [
     category: 'Digital Illustration',
     description: 'A playful digital illustration depicting Daffy Duck and Bugs Bunny surrounded by towering stacks of cash.',
     image: '/showcase/daffy-and-bugz-money.jpg'
+  },
+  {
+    id: 33,
+    title: 'Angel of Doubt',
+    category: 'Digital Illustration',
+    description: 'A somber monochrome digital painting of a solitary winged angel standing shrouded in deep shadow.',
+    image: '/showcase/angel-of-doubt.jpg'
   }
 ];
 
