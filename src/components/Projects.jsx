@@ -234,6 +234,13 @@ const projectData = [
     category: 'Digital Illustration',
     description: 'A somber monochrome digital painting of a solitary winged angel standing shrouded in deep shadow.',
     image: '/showcase/angel-of-doubt.jpg'
+  },
+  {
+    id: 34,
+    title: 'Mix Angel',
+    category: 'Digital Illustration',
+    description: 'A vibrant mixed-media style digital illustration of a winged figure ablaze with vivid colors against a crimson aura.',
+    image: '/showcase/mix-angel.jpg'
   }
 ];
 
